@@ -19,17 +19,17 @@
 
   |   주차  |   내용      |              URL                 |        기간           |
   |--------|------------|----------------------------------|---------------------|
-  | week01 | 기초 100제   |[랑크](https://codeup.kr/index.php)| 25.02.19 - 25.02.23 |
-  | week01 | 압출력   |[랑크](https://www.acmicpc.net/workbook/view/13915)| 25.02.19 - 25.02.23 |
-  | week02 | 수학   |[랑크](https://www.acmicpc.net/workbook/view/8997)| 25.02.24 - 25.03.02 |
-  | week03 | 자료구조   |[랑크](https://www.acmicpc.net/workbook/view/8999)| 25.03.03 - 25.03.09 |
-  | week04 | 재귀, 정렬   |[랑크](https://www.acmicpc.net/workbook/view/9000)| 25.03.10 - 25.03.16 |
-  | week05 | DP   |[랑크](https://www.acmicpc.net/workbook/view/3474)| 25.03.17 - 25.03.23 |
-  | week06 | 그래프, BFS/DFS   |[랑크](https://www.acmicpc.net/workbook/view/9003)| 25.03.24 - 25.03.30 |
-  | week07 | BFS/DFS 응용   |[랑크](https://www.acmicpc.net/workbook/view/14583)| 25.03.31 - 25.04.06 |
-  | week08 | 이분탐색, 분할정복   |[랑크](https://www.acmicpc.net/workbook/view/7217), [링크](https://www.acmicpc.net/workbook/view/7218)| 25.04.07 - 25.04.13 |
-  | week09 | 그리디   |[랑크](https://www.acmicpc.net/workbook/view/7219)| 25.04.14 - 25.04.20 |
-  | week10 | 구현   |[랑크](https://www.acmicpc.net/workbook/view/1152)| 25.04.21 - 25.04.27 |
-  | week11 | 완전탐색, 시뮬레이션   |[랑크](https://github.com/tony9402/baekjoon/tree/main/algorithms/brute_force)| 25.04.28 - 25.05.04 |
+  | week01 | 기초 100제   |[링크](https://codeup.kr/index.php)| 25.02.19 - 25.02.23 |
+  | week01 | 압출력   |[링크](https://www.acmicpc.net/workbook/view/13915)| 25.02.19 - 25.02.23 |
+  | week02 | 수학   |[링크](https://www.acmicpc.net/workbook/view/8997)| 25.02.24 - 25.03.02 |
+  | week03 | 자료구조   |[링크](https://www.acmicpc.net/workbook/view/8999)| 25.03.03 - 25.03.09 |
+  | week04 | 재귀, 정렬   |[링크](https://www.acmicpc.net/workbook/view/9000)| 25.03.10 - 25.03.16 |
+  | week05 | DP   |[링크](https://www.acmicpc.net/workbook/view/3474)| 25.03.17 - 25.03.23 |
+  | week06 | 그래프, BFS/DFS   |[링크](https://www.acmicpc.net/workbook/view/9003)| 25.03.24 - 25.03.30 |
+  | week07 | BFS/DFS 응용   |[링크](https://www.acmicpc.net/workbook/view/14583)| 25.03.31 - 25.04.06 |
+  | week08 | 이분탐색, 분할정복   |[링크](https://www.acmicpc.net/workbook/view/7217), [링크](https://www.acmicpc.net/workbook/view/7218)| 25.04.07 - 25.04.13 |
+  | week09 | 그리디   |[링크](https://www.acmicpc.net/workbook/view/7219)| 25.04.14 - 25.04.20 |
+  | week10 | 구현   |[링크](https://www.acmicpc.net/workbook/view/1152)| 25.04.21 - 25.04.27 |
+  | week11 | 완전탐색, 시뮬레이션   |[링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/brute_force)| 25.04.28 - 25.05.04 |
 
   
