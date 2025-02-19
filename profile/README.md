@@ -20,7 +20,7 @@
   |   주차  |   내용      |              URL                 |        기간           |
   |--------|------------|----------------------------------|---------------------|
   | week01 | 기초 100제   |[링크](https://codeup.kr/index.php)| 25.02.19 - 25.02.23 |
-  | week01 | 압출력   |[링크](https://www.acmicpc.net/workbook/view/13915)| 25.02.19 - 25.02.23 |
+  | week01 | 입출력   |[링크](https://www.acmicpc.net/workbook/view/13915)| 25.02.19 - 25.02.23 |
   | week02 | 수학   |[링크](https://www.acmicpc.net/workbook/view/8997)| 25.02.24 - 25.03.02 |
   | week03 | 자료구조   |[링크](https://www.acmicpc.net/workbook/view/8999)| 25.03.03 - 25.03.09 |
   | week04 | 재귀, 정렬   |[링크](https://www.acmicpc.net/workbook/view/9000)| 25.03.10 - 25.03.16 |
