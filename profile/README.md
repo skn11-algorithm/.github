@@ -21,9 +21,9 @@
   |--------|------------|----------------------------------|---------------------|
   | week01 | 기초 100제   |[링크](https://codeup.kr/index.php)| 25.02.19 - 25.02.23 |
   | week01 | 입출력   |[링크](https://www.acmicpc.net/workbook/view/13915)| 25.02.19 - 25.02.23 |
-  | week02 | 수학   |[링크](https://www.acmicpc.net/workbook/view/8997)| 25.02.24 - 25.03.02 |
-  | week03 | 자료구조   |[링크](https://www.acmicpc.net/workbook/view/8999)| 25.03.03 - 25.03.09 |
-  | week04 | 재귀, 정렬   |[링크](https://www.acmicpc.net/workbook/view/9000)| 25.03.10 - 25.03.16 |
+  | week02 | 수학   |[링크](https://www.acmicpc.net/workbook/view/8997)| 25.02.24 - 25.03.02, 25.03.10 - 25.03.16 |
+  | week03 | 자료구조   |[링크](https://www.acmicpc.net/workbook/view/8999)| 25.03.03 - 25.03.16 |
+  | week04 | 재귀, 정렬   |[링크](https://www.acmicpc.net/workbook/view/9000)| 25.03.17 - 25.03.23 |
   | week05 | DP   |[링크](https://www.acmicpc.net/workbook/view/3474)| 25.03.17 - 25.03.23 |
   | week06 | 그래프, BFS/DFS   |[링크](https://www.acmicpc.net/workbook/view/9003)| 25.03.24 - 25.03.30 |
   | week07 | BFS/DFS 응용   |[링크](https://www.acmicpc.net/workbook/view/14583)| 25.03.31 - 25.04.06 |
