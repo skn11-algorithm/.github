@@ -25,7 +25,7 @@
   | week03 | 자료구조   |[링크](https://www.acmicpc.net/workbook/view/8999)| 25.03.03 - 25.03.16 |
   | week04 | 재귀, 정렬   |[링크](https://www.acmicpc.net/workbook/view/9000)| 25.03.17 - 25.03.23 |
   | week05 | DP   |[링크](https://www.acmicpc.net/workbook/view/3474)| 25.03.17 - 25.03.23 |
-  | week06 | 그래프, BFS/DFS   |[링크](https://www.acmicpc.net/workbook/view/9003)| 25.03.24 - 25.03.30 |
+  | week06 | 그래프, BFS/DFS   |[링크](https://www.acmicpc.net/workbook/view/9003)| 25.04.07 - 25.04.13 |
   | week07 | BFS/DFS 응용   |[링크](https://www.acmicpc.net/workbook/view/14583)| 25.03.31 - 25.04.06 |
   | week08 | 이분탐색, 분할정복   |[링크](https://www.acmicpc.net/workbook/view/7217), [링크](https://www.acmicpc.net/workbook/view/7218)| 25.04.07 - 25.04.13 |
   | week09 | 그리디   |[링크](https://www.acmicpc.net/workbook/view/7219)| 25.04.14 - 25.04.20 |
