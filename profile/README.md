@@ -29,7 +29,6 @@
   | week07 | 다익스트라  |[링크](https://www.acmicpc.net/workbook/view/14583),[링크](https://www.acmicpc.net/workbook/view/7761)| 25.04.14 - 25.04.20 |
   | week08 | 이분탐색, 분할정복   |[링크](https://www.acmicpc.net/workbook/view/7217), [링크](https://www.acmicpc.net/workbook/view/7218)| 25.04.07 - 25.04.13 |
   | week09 | 그리디   |[링크](https://www.acmicpc.net/workbook/view/7219)| 25.04.14 - 25.04.20 |
-  | week10 | 구현   |[링크](https://www.acmicpc.net/workbook/view/1152)| 25.04.21 - 25.04.27 |
-  | week11 | 완전탐색, 시뮬레이션   |[링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/brute_force)| 25.04.28 - 25.05.04 |
+  | week10 | 구현, 완전탐색   |[링크](https://www.acmicpc.net/workbook/view/1152), [링크](https://github.com/tony9402/baekjoon/tree/main/algorithms/brute_force)| 25.04.21 - 25.04.27 |
 
   
